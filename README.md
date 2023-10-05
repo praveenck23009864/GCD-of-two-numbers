@@ -37,7 +37,8 @@ RegisterNumber:  23009864
 
 ## Output:
 ![gcd of two number](gcd.png)
-![Screenshot 2023-10-05 202759](https://github.com/praveenck23009864/GCD-of-two-numbers/assets/141472050/9e1d7172-90ed-43a3-a319-1b23df7c6d16)
+![Screenshot 2023-10-05 202743](https://github.com/praveenck23009864/GCD-of-two-numbers/assets/141472050/0b0f2350-b92f-4025-88c9-f41bf7b2b808)
+
 
 
 
