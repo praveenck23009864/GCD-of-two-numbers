@@ -35,6 +35,7 @@ def gcd():
             hcf=i
         
     print('GCD of two numbers is:',hcf)
+    '''
 
 
 ## Output:
