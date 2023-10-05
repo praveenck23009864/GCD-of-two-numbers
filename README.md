@@ -22,8 +22,8 @@ Program to find the gcd of two number using function.
 Developed by: praveen ck
 RegisterNumber:  23009864
 */
-```
 '''
+''''
 def gcd():
     a,b=int(input()),int(input())
     if a>b:
@@ -36,6 +36,7 @@ def gcd():
         
     print('GCD of two numbers is:',hcf)
     '''
+    ''''
 
 
 ## Output:
